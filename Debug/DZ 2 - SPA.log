@@ -1,0 +1,4 @@
+﻿  game_of_life.cpp
+c:\users\ivan\source\repos\dz 2 - spa\dz 2 - spa\game_of_life.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\ivan\source\repos\dz 2 - spa\dz 2 - spa\game_of_life.cpp(14): warning C4715: 'game_of_life::slucajna_vrijednost': not all control paths return a value
+  DZ 2 - SPA.vcxproj -> C:\Users\Ivan\source\repos\DZ 2 - SPA\Debug\DZ 2 - SPA.exe
